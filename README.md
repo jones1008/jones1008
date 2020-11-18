@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **jones1008/jones1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### short CV
+- 3 years apprenticeship: IT specialist (system integration)
+- now studying applied informatics and working as a web developer
+- co founder of [Fluhrer Games GbR](https://fluhrer.games)
+
+### interests:
+- Frontend development
+- Vue.js
+- Svelte
+- Tailwind.CSS
+- JavaScript/TypeScript
+- Node.js
+- PHP
+- Go
