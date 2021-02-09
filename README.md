@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - co founder of [Fluhrer Games GbR](https://fluhrer.games)
 
 ### interests:
-- Frontend development
+- Fullstack development
+- Docker
 - Vue.js
 - Svelte
 - Tailwind.CSS
