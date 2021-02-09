@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ### interests:
 - Fullstack development
+- DevOps
+- CI/CD
 - Docker
 - Vue.js
 - Svelte
