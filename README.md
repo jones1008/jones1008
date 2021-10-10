@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### short CV
 - 3 years apprenticeship: IT specialist (system integration)
-- now studying applied informatics and working as a web developer
+- 3 years study: applied informatics at DHBW Mosbach
 - co founder of [Fluhrer Games GbR](https://fluhrer.games)
 
 ### interests:
@@ -25,9 +25,12 @@ Here are some ideas to get you started:
 - CI/CD
 - Docker
 - Vue.js
+- Angular
+- React
 - Svelte
-- Tailwind.CSS
+- UI/UX
 - JavaScript/TypeScript
 - Node.js
 - PHP
 - Go
+- Java
