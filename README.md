@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 3 years apprenticeship: IT specialist (system integration)
 - 3 years study: applied informatics at DHBW Mosbach
 - co founder of [Fluhrer Games GbR](https://fluhrer.games)
+- Junior Software Engineer at [Novatec](https://github.com/NovatecConsulting)
 
 ### interests:
 - Fullstack development
