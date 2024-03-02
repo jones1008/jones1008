@@ -18,20 +18,8 @@ Here are some ideas to get you started:
 - 3 years apprenticeship: IT specialist (system integration)
 - 3 years study: applied informatics at DHBW Mosbach
 - co founder of [Fluhrer Games GbR](https://fluhrer.games)
-- Junior Software Engineer at [Novatec](https://github.com/NovatecConsulting)
+- Software Engineer at [Novatec](https://github.com/NovatecConsulting)
 
-### interests:
-- Fullstack development
-- DevOps
-- CI/CD
-- Docker
-- Vue.js
-- Angular
-- React
-- Svelte
-- UI/UX
-- JavaScript/TypeScript
-- Node.js
-- PHP
-- Go
-- Java
+### skills
+
+![frontend skills](https://skillicons.dev/icons?i=angular,vue,nuxtjs,ts,js,html,scss,jest,supabase,docker,bash,idea,nodejs,postgres,react,vite) 
